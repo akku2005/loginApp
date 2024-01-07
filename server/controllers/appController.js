@@ -26,10 +26,10 @@ export async function verifyUser(req, res, next){
   "username" : "example123",
   "password" : "admin123",
   "email": "example@gmail.com",
-  "firstName" : "bill",
-  "lastName": "william",
-  "mobile": 8009860560,
-  "address" : "Apt. 556, Kulas Light, Gwenborough",
+  "firstName" : "aaa",
+  "lastName": "bbbb",
+  "mobile": 1234567891,
+  "address" : "abcd",
   "profile": ""
 }
 */
